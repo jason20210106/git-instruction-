@@ -24,7 +24,7 @@
 1. Change directory to designated file/folder 
 2. Upload file/folder to git
    ```git add (file)```
-3. ```git commit```
+3. ```git commit -m(message)```
 4. ```git push```
 
 ----------------------------------------------------------------
