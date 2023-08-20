@@ -7,7 +7,7 @@
 2.  Establish your own repository at git 
     ``````
 3.  Upload designated file to git 
-    ```git add .```
+    ```git add (file name)```
 
 4. ---
    ```git commit -m "message"```
